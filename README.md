@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @velocity2405
-- 👀 I’m interested in pythohn coding, app developing and anything that has to do with space
+- 👀 I’m interested in python coding, web development, app development and anything that has to do with space
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anything pretty much :)
+- 💞️ I’m looking to collaborate on pretty much anything
 - 📫 How to reach me, email me on thenitkumar@gmail.com
 
 <!---
